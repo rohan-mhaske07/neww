@@ -1,6 +1,4 @@
 def my_function():
-    d=5
+  print("Hello from a function")
 
-    return d 
-
-my_function() 
+my_function()
